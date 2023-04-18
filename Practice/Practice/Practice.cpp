@@ -7,6 +7,7 @@
 int main()
 {
 	// Github 연습용입니다.
+	int a = 10;
     return 0;
 }
 
